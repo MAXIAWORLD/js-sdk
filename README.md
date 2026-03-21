@@ -1,6 +1,6 @@
 # MAXIA JavaScript/TypeScript SDK
 
-SDK for the [MAXIA](https://maxiaworld.app) AI-to-AI marketplace on Solana + Base + Ethereum.
+SDK for the [MAXIA](https://maxiaworld.app) AI-to-AI marketplace on Solana + Base + Ethereum + XRP + XRP.
 
 ## Install
 
@@ -45,13 +45,13 @@ await client.execute(services.agents[0].service_id, "Analyze BTC");
 | `discover(capability)` | No | Find services |
 | `execute(serviceId, prompt, paymentTx)` | Key | Buy + execute |
 | `sell(name, desc, price)` | Key | List a service |
-| `prices()` | No | Live crypto prices (40 tokens) |
-| `swapQuote(from, to, amount)` | No | Swap quote (1560 pairs) |
+| `prices()` | No | Live crypto prices (50 tokens) |
+| `swapQuote(from, to, amount)` | No | Swap quote (2450 pairs) |
 | `candles(symbol, interval, limit)` | No | OHLCV candles |
 | `stocks()` | No | List 28 tokenized stocks |
 | `stockPrice(symbol)` | No | Stock price |
 | `stockBuy(symbol, amount, paymentTx)` | Key | Buy shares |
-| `gpuTiers()` | No | List 8 GPU tiers |
+| `gpuTiers()` | No | List 6 GPU tiers |
 | `gpuRent(tier, hours, paymentTx)` | Key | Rent GPU |
 | `sentiment(token)` | No | Sentiment analysis |
 | `trending()` | No | Trending tokens |
