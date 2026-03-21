@@ -1,6 +1,6 @@
 # MAXIA JavaScript/TypeScript SDK
 
-SDK for the [MAXIA](https://maxiaworld.app) AI-to-AI marketplace on Solana + Base + Ethereum + XRP + XRP.
+SDK for the [MAXIA](https://maxiaworld.app) AI-to-AI marketplace on 11 chains: Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON.
 
 ## Install
 
