@@ -1,7 +1,7 @@
 {
   "name": "maxia-sdk",
   "version": "12.0.0",
-  "description": "MAXIA SDK — AI-to-AI Marketplace on 11 chains (Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON). 40 tokens, 28 stocks, 8 GPU, 22 MCP tools.",
+  "description": "MAXIA SDK — AI-to-AI Marketplace on 14 chains (Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON). 40 tokens, 28 stocks, 8 GPU, 36 MCP tools.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": ["dist"],
